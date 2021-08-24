@@ -1,13 +1,26 @@
-# Hey there <img src="https://github.com/shuvo12729/shuvo/blob/main/images/wave.gif" alt="Waving Hand" width="40">, I'm [Shuvo!](https://shuvo12729.github.io)
 
-<img src="https://visitor-badge.laobi.icu/badge?page_id=ysherqawi.ysherqawi" alt="Number of Yasser's Profile Visitors" align="right" />
+# Hey there <img src="https://github.com/shuvo12729/ysherqawi/blob/master/images/wave.gif" alt="Waving Hand" width="40">, I'm [Yasser!](https://ysherqawi.github.io)
+
+
+
+<img src="https://visitor-badge.laobi.icu/badge?page_id=ysherqawi.ysherqawi" alt="Number of Shuvo's Profile Visitors" align="right" />
+
+
+
+
+
+
 
 <div align="left">
   <a href="https://www.linkedin.com/in/shuvo12729">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" alt="Yasser's LinkdeIn" width="25"/>
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" alt="Shuvo's LinkdeIn" width="25"/>
   </a>
   <a href="mailto:abdullashuvo127@gmail.com">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" alt="Yasser's Email" width="25" />
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" alt="Shuvos Email" width="25" />
+  </a>
+  
+  <a href="mailto:abdullashuvo127@gmail.com">
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" alt="Shuvos Email" width="25" />
   </a>
 </div>
 
@@ -15,8 +28,8 @@
 <br/>
 
 <p align="left">
-Hi, I'm Yasser Sherqawi. I'm an enthusiastic, motivated Software Quality Assurance Engineer. seeking to apply and expand my knowledge
-and skills towards working in a collaborative environment. where I can make a contribution, and learning every day
+Hi, I'm S.M Abdulla Shuvo. I'm an enthusiastic, motivated Software Quality Assurance Engineer. Seeking to apply and expand my knowledge
+and skills towards working in a collaborative environment. Where I can make a contribution, and learning every day
 to grow professionally in the IT field.
 </p>
 <p align="left">
@@ -36,14 +49,29 @@ When I'm not Testing, you'll find me playing video games🎮, watching football�
 
 - 👨🏽‍💻 I’m currently working on something cool <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" alt="A Cat Going Crazy In Front Of a Laptop" width="40">
 - 📝  I’m currently learning Automation
+- 🌱 I’m a SQA enthusiast and currently all into java. 🧡
 - 💬  Ask me about anything, I am happy to help
-- 📫  How to reach me: [@ysherqawi](https://www.linkedin.com/in/shuvo12729/)
+- 📫  How to reach me: [@shuvo12729](https://www.linkedin.com/in/shuvo12729/)
+- 👯 I’m looking to collaborate with other open source contributor
+- ⚡ Fun fact: I think, I am in Love with Software Testing.
 
 </div>
 
 <br/>
 <br/>
 <br/>
+
+<br>
+
+[![Website](https://img.shields.io/website?label=opendevs.in&style=for-the-badge&url=https://opendevs.in)](https://opendevs.in)
+[![https://alok722.hashnode.dev](https://img.shields.io/website?label=Blog&style=for-the-badge&url=https://alok722.hashnode.dev)](https://shuvo12729.hashnode.dev)
+[![Twitter Follow](https://img.shields.io/twitter/follow/alok722?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Falok722&screen_name=alok722)
+[![LinkedIn Connect](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/shuvo12729)
+[![LinkedIn Connect](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/shuvo12729)
+
+
+
+
 
 ## ⚡ Technologies
 
@@ -71,8 +99,8 @@ When I'm not Testing, you'll find me playing video games🎮, watching football�
 ## 📊 My GitHub Stats
 
 <div align="left">
-  <img alt="Yasser's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=ysherqawi&count_private=true&show_icons=true" />
-  <img alt="Yasser's Most Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ysherqawi" />
+  <img alt="Shuvo's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=ysherqawi&count_private=true&show_icons=true" />
+  <img alt="Shuvo's Most Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ysherqawi" />
 </div>
 
 <br/>
@@ -87,3 +115,15 @@ When I'm not Testing, you'll find me playing video games🎮, watching football�
     <img alt="ProShop Repo Link" src="https://github-readme-stats.vercel.app/api/pin/?username=ysherqawi&repo=proshop" />
   </a>
 </div>
+
+
+
+## ⭐ Starred Repository
+
+
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=alok722&repo=express-server-boilerplate&show_owner=true&theme=algolia)](https://github.com/shuvo12729/express-server-boilerplate)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=alok722&repo=express-server-boilerplate-auth&show_owner=true&theme=algolia)](https://github.com/aloshuvo12729k722/express-server-boilerplate-auth)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=carefortheliving&repo=frontend&show_owner=true&theme=algolia)](https://github.com/carefortheliving/frontend)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=carefortheliving&repo=frontend&show_owner=true&theme=algolia)](https://github.com/carefortheliving/frontend)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=carefortheliving&repo=frontend&show_owner=true&theme=algolia)](https://github.com/carefortheliving/frontend)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=carefortheliving&repo=frontend&show_owner=true&theme=algolia)](https://github.com/carefortheliving/frontend)
