@@ -1,4 +1,4 @@
-# Hey there <img src="https://github.com/shuvo12729/profile/master/images/developer.gif" alt="Waving Hand" width="40">, I'm [Shuvo!](https://shuvo12729.github.io)
+# Hey there <img src="https://github.com/shuvo12729/profile/master/images/wave.gif" alt="Waving Hand" width="40">, I'm [Shuvo!](https://shuvo12729.github.io)
 
 <img src="https://visitor-badge.laobi.icu/badge?page_id=ysherqawi.ysherqawi" alt="Number of Yasser's Profile Visitors" align="right" />
 
