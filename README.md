@@ -1,4 +1,4 @@
-# Hey there <img src="https://github.com/shuvo12729/profile/master/images/wave.gif" alt="Waving Hand" width="40">, I'm [Shuvo!](https://shuvo12729.github.io)
+# Hey there <img src="https://github.com/shuvo12729/shuvo/blob/main/images/wave.gif" alt="Waving Hand" width="40">, I'm [Shuvo!](https://shuvo12729.github.io)
 
 <img src="https://visitor-badge.laobi.icu/badge?page_id=ysherqawi.ysherqawi" alt="Number of Yasser's Profile Visitors" align="right" />
 
@@ -23,7 +23,7 @@ to grow professionally in the IT field.
 When I'm not Testing, you'll find me playing video games🎮, watching football⚽, listening to music🎼, or watching movies🎬.
 </p>
 
-<img src="https://github.com/ysherqawi/ysherqawi/blob/master/images/developer.gif" alt="A Tester Sitting In Front Of a Computer" style="margin-top:-40px" align="right" width="475" height="350" />
+<img src="https://github.com/shuvo12729/shuvo/blob/main/images/developer.gif" alt="A Tester Sitting In Front Of a Computer" style="margin-top:-40px" align="right" width="475" height="350" />
 
 <br/>
 <br/>
