@@ -1,5 +1,5 @@
 
-# Hey there <img src="https://github.com/shuvo12729/ysherqawi/blob/master/images/wave.gif" alt="Waving Hand" width="40">, I'm [Shuvo!](https://shuvo12729.github.io)
+# Hey there <img src="https://github.com/shuvo12729/shuvo12729/blob/main/images/wave.gif" alt="Waving Hand" width="40">, I'm [Shuvo!](https://shuvo12729.github.io)
 
 
 
