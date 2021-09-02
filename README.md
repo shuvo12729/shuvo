@@ -10,6 +10,40 @@
 
 
 
+<!--Website -->
+[![Instagram Badge](https://img.shields.io/badge/-Instagram-e4405f?style=flat-square&logo=Instagram&logoColor=white)](https://instagram.com/shuvo12729)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://linkedin.com/in/shuvo12729)
+[![Website Badge](https://img.shields.io/badge/Website-3b5998?style=flat-square&logo=google-chrome&logoColor=white)](https://shuvo12729.github.io)
+[![Twitter Badge](https://img.shields.io/badge/-Twitter-00acee?style=flat-square&logo=Twitter&logoColor=white)](https://twitter.com/shuvo12729)
+[![YouTube Badge](https://img.shields.io/badge/-YouTube-e4405f?style=flat-square&logo=Youtube&logoColor=white)](https://youtube.com/shuvo12729/)
+[![Facebook Badge](https://img.shields.io/badge/-Facebook-0088cc?style=flat-square&logo=Facebook&logoColor=white)](https://facebook.com/shuvo12729)
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=shipu.shipu)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 <div align="left">
   <a href="https://www.linkedin.com/in/shuvo12729">
