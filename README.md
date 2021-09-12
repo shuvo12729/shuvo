@@ -3,21 +3,18 @@
 
 
 
-<img src="https://visitor-badge.laobi.icu/badge?page_id=ysherqawi.ysherqawi" alt="Number of Shuvo's Profile Visitors" align="right" />
-
-
+<img src="https://visitor-badge.laobi.icu/badge?page_id=shuvo12729.shuvo12729" alt="Number of Shuvo's Profile Visitors" align="right" />
 
 
 
 
 <!--Website -->
-[![Instagram Badge](https://img.shields.io/badge/-Instagram-e4405f?style=flat-square&logo=Instagram&logoColor=white)](https://instagram.com/shuvo12729)
+
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://linkedin.com/in/shuvo12729)
 [![Website Badge](https://img.shields.io/badge/Website-3b5998?style=flat-square&logo=google-chrome&logoColor=white)](https://shuvo12729.github.io)
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-00acee?style=flat-square&logo=Twitter&logoColor=white)](https://twitter.com/shuvo12729)
 [![YouTube Badge](https://img.shields.io/badge/-YouTube-e4405f?style=flat-square&logo=Youtube&logoColor=white)](https://youtube.com/shuvo12729/)
 [![Facebook Badge](https://img.shields.io/badge/-Facebook-0088cc?style=flat-square&logo=Facebook&logoColor=white)](https://facebook.com/shuvo12729)
-![visitors](https://visitor-badge.laobi.icu/badge?page_id=shipu.shipu)
 
 
 
@@ -45,21 +42,7 @@
 
 
 
-<div align="left">
-  <a href="https://www.linkedin.com/in/shuvo12729">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" alt="Shuvo's LinkdeIn" width="25"/>
-  </a>
-  <a href="mailto:abdullashuvo127@gmail.com">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" alt="Shuvos Email" width="25" />
-  </a>
-  
-  <a href="mailto:abdullashuvo127@gmail.com">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" alt="Shuvos Email" width="25" />
-  </a>
-</div>
 
-<br/>
-<br/>
 
 <p align="left">
 Hi, I'm S.M Abdulla Shuvo. I'm an enthusiastic, motivated Software Quality Assurance Engineer. Seeking to apply and expand my knowledge
@@ -126,15 +109,11 @@ When I'm not Testing, you'll find me playing video gamesðŸŽ®, watching footballâ
 <div>
   <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="JavaScript Icon" width="30">
   <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" alt="NodeJs Icon" width="30">
-  <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" alt="MongoDB Icon" width="30">
-  <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" alt="SQL Icon" width="30">
   <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" alt="MYSQL Icon" width="30" />
   <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" alt="React Icon" width="30">
   <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react-native/react-native.png" alt="React Native Icon" width="30">
-  <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/redux/redux.png" alt="Redux Icon" width="30">
   <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" alt="HTML Icon" width="30">
   <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" alt="CSS Icon" width="30">
-  <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" alt="SASS Icon" width="30">
   <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png" alt="Bootstrap Icon" width="30">
   <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/npm/npm.png" alt="NPM Icon" width="30">
   <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" alt="GIT Icon" width="30">
