@@ -102,7 +102,7 @@ When I'm not Testing, you'll find me playing video gamesðŸŽ®, watching footballâ
 
 <div align="left">
   <a href="https://github.com/shuvo12729/Basic_Java.git">
-    <img alt="Basic Java Function" src="https://github-readme-stats.vercel.app/api/pin/?username=shuvo12729&repo=bsic_java" />
+    <img alt="Basic Java Function" src="https://github-readme-stats.vercel.app/api/pin/?username=shuvo12729&repo=basic_java" />
   </a>
   
   <a href="https://github.com/shuvo12729/Medication-Adhearence.git">
