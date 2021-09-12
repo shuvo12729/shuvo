@@ -85,60 +85,14 @@ When I'm not Testing, you'll find me playing video games🎮, watching football�
 [![LinkedIn Connect](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/shuvo12729)
 
 
-
-
-
-
-
-
-## ⚡ Technologies
-
-<div>
-  <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="JavaScript Icon" width="30">
-  <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" alt="NodeJs Icon" width="30">
-  <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" alt="MYSQL Icon" width="30" />
-  <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" alt="React Icon" width="30">
-  <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react-native/react-native.png" alt="React Native Icon" width="30">
-  <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" alt="HTML Icon" width="30">
-  <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" alt="CSS Icon" width="30">
-  <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png" alt="Bootstrap Icon" width="30">
-  <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/npm/npm.png" alt="NPM Icon" width="30">
-  <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" alt="GIT Icon" width="30">
-  <img src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" alt="Github Icon" width="30"/>
-  <img src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/docker/docker.png" alt="Docker Icon" width="30"/>
-</div>
-
-<br/>
-
-## 📊 My GitHub Stats
-
-<div align="left">
-  <img alt="Shuvo's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=ysherqawi&count_private=true&show_icons=true" />
-  <img alt="Shuvo's Most Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ysherqawi" />
-</div>
-
-<br/>
-
 ## 💻 Latest Projects
 
 <div align="left">
-  <a href="https://github.com/ysherqawi/developer-portfolio">
-    <img alt="Developer Portfolio Repo Link" src="https://github-readme-stats.vercel.app/api/pin/?username=ysherqawi&repo=developer-portfolio" />
+  <a href="https://github.com/shuvo12729/Basic_Java.git">
+    <img alt="Java Basic Function" src="https://github-readme-stats.vercel.app/api/pin/?username=shuvo12729&repo=developer-portfolio" />
   </a>
-  <a href="https://github.com/ysherqawi/proshop">
-    <img alt="ProShop Repo Link" src="https://github-readme-stats.vercel.app/api/pin/?username=ysherqawi&repo=proshop" />
+  <a href="https://github.com/shuvo12729/Medication-Adhearence.git">
+    <img alt="Medication Adherence Repo Link" src="https://github-readme-stats.vercel.app/api/pin/?username=shuvo12729&repo=proshop" />
   </a>
 </div>
-
-
-
-## ⭐ Starred Repository
-
-
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=alok722&repo=express-server-boilerplate&show_owner=true&theme=algolia)](https://github.com/shuvo12729/express-server-boilerplate)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=alok722&repo=express-server-boilerplate-auth&show_owner=true&theme=algolia)](https://github.com/aloshuvo12729k722/express-server-boilerplate-auth)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=carefortheliving&repo=frontend&show_owner=true&theme=algolia)](https://github.com/carefortheliving/frontend)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=carefortheliving&repo=frontend&show_owner=true&theme=algolia)](https://github.com/carefortheliving/frontend)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=carefortheliving&repo=frontend&show_owner=true&theme=algolia)](https://github.com/carefortheliving/frontend)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=carefortheliving&repo=frontend&show_owner=true&theme=algolia)](https://github.com/carefortheliving/frontend)
 
