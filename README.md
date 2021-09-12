@@ -15,31 +15,7 @@
 [![Facebook Badge](https://img.shields.io/badge/-Facebook-00acee?style=flat-square&logo=Facebook&logoColor=white)](https://facebook.com/shuvo12729)
 [![YouTube Badge](https://img.shields.io/badge/-YouTube-e4405f?style=flat-square&logo=Youtube&logoColor=white)](https://youtube.com/shuvo12729/)
 [![Gitlab Badge](https://img.shields.io/badge/-Gitlab-e4405f?style=flat-square&logo=Gitlab&logoColor=white)](https://gitlab.com/shuvo12729/)
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+[![Hashnode Badge](https://img.shields.io/badge/-Hashnode-e4405f?style=flat-square&logo=Hashnode&logoColor=white)](https://shuvo12729.hashnode.dev)
 
 
 
@@ -59,8 +35,6 @@ When I'm not Testing, you'll find me playing video gamesðŸŽ®, watching footballâ
 
 <br/>
 <br/>
-<br/>
-<br/>
 
 **Talking about Personal Stuffs:**
 
@@ -78,15 +52,6 @@ When I'm not Testing, you'll find me playing video gamesðŸŽ®, watching footballâ
 <br/>
 <br/>
 
-<br>
-
-[![Website](https://img.shields.io/website?label=opendevs.in&style=for-the-badge&url=https://opendevs.in)](https://opendevs.in)
-[![https://alok722.hashnode.dev](https://img.shields.io/website?label=Blog&style=for-the-badge&url=https://alok722.hashnode.dev)](https://shuvo12729.hashnode.dev)
-[![Twitter Follow](https://img.shields.io/twitter/follow/alok722?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Falok722&screen_name=alok722)
-[![LinkedIn Connect](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/shuvo12729)
-[![LinkedIn Connect](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/shuvo12729)
-
-<br/>
 
 
 ## ðŸ“Š My GitHub Stats
