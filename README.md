@@ -15,8 +15,6 @@
 [![Facebook Badge](https://img.shields.io/badge/-Facebook-00acee?style=flat-square&logo=Facebook&logoColor=white)](https://facebook.com/shuvo12729)
 [![YouTube Badge](https://img.shields.io/badge/-YouTube-e4405f?style=flat-square&logo=Youtube&logoColor=white)](https://youtube.com/shuvo12729/)
 [![Gitlab Badge](https://img.shields.io/badge/-Gitlab-e4405f?style=flat-square&logo=Gitlab&logoColor=white)](https://gitlab.com/shuvo12729/)
-[![Hashnode Badge](https://img.shields.io/badge/-Hashnode-e4405f?style=flat-square&logo=Hashnode&logoColor=white)](https://shuvo12729.hashnode.dev)
-
 
 
 
@@ -40,7 +38,7 @@ When I'm not Testing, you'll find me playing video games🎮, watching football�
 
 <div align="left">
 
-- 👨🏽‍💻 I’m currently working on something cool <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" alt="A Cat Going Crazy In Front Of a Laptop" width="40">
+- 👨🏽‍💻  I’m currently working on something cool <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" alt="A Cat Going Crazy In Front Of a Laptop" width="40">
 - 📝  I’m currently learning Automation Testing.
 - 📫  How to reach me: [@shuvo12729](https://www.linkedin.com/in/shuvo12729/)
 - 👯  I like to working together.
@@ -48,7 +46,6 @@ When I'm not Testing, you'll find me playing video games🎮, watching football�
 
 </div>
 
-<br/>
 <br/>
 <br/>
 
