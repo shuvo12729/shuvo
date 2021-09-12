@@ -84,6 +84,17 @@ When I'm not Testing, you'll find me playing video games🎮, watching football�
 [![LinkedIn Connect](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/shuvo12729)
 [![LinkedIn Connect](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/shuvo12729)
 
+<br/>
+
+
+## 📊 My GitHub Stats
+
+<div align="left">
+  <img alt="Shuvo's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=shuvo12729&count_private=true&show_icons=true" />
+  <img alt="Shuvo's Most Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shuvo12729" />
+</div>
+
+<br/>
 
 ## 💻 Latest Projects
 
