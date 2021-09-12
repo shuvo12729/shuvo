@@ -53,7 +53,7 @@ to grow professionally in the IT field.
 When I'm not Testing, you'll find me playing video games🎮, watching football⚽, listening to music🎼, or watching movies🎬.
 </p>
 
-<img src="https://github.com/shuvo12729/shuvo/blob/main/images/developer.gif" alt="A Tester Sitting In Front Of a Computer" style="margin-top:-40px" align="right" width="475" height="350" />
+<img src="https://github.com/shuvo12729/shuvo/blob/main/images/developper.gif" alt="A Tester Sitting In Front Of a Computer" style="margin-top:-40px" align="right" width="475" height="350" />
 
 <br/>
 <br/>
@@ -65,12 +65,10 @@ When I'm not Testing, you'll find me playing video games🎮, watching football�
 <div align="left">
 
 - 👨🏽‍💻 I’m currently working on something cool <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" alt="A Cat Going Crazy In Front Of a Laptop" width="40">
-- 📝  I’m currently learning Automation
-- 🌱 I’m a SQA enthusiast and currently all into java. 🧡
-- 💬  Ask me about anything, I am happy to help
+- 📝  I’m currently learning Automation Testing.
 - 📫  How to reach me: [@shuvo12729](https://www.linkedin.com/in/shuvo12729/)
-- 👯 I’m looking to collaborate with other open source contributor
-- ⚡ Fun fact: I think, I am in Love with Software Testing.
+- 👯  I like to working together.
+- ⚡  Fun fact: I think, I am in Love with Software Testing.
 
 </div>
 
@@ -88,17 +86,6 @@ When I'm not Testing, you'll find me playing video games🎮, watching football�
 
 
 
-## 🤝 Connect with me
-
-<p align="left">
-<a href="https://linkedin.com/in/alok722" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="alok722" height="30" width="40" /></a>
-<a href="https://twitter.com/alok722" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="alok722" height="30" width="40" /></a>
-<a href="https://dev.to/alok722" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="alok722" height="30" width="40" /></a>
-<a href="https://medium.com/@alok722" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@alok722" height="30" width="40" /></a>
-<a href="https://discord.gg/alok722#3719" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="alok722" height="30" width="40" /></a>
-<a href="https://fb.com/alok722" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="alok722" height="30" width="40" /></a>
-<a href="https://instagram.com/alok722_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="alok722_" height="30" width="40" /></a>
-</p>
 
 
 
