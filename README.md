@@ -14,7 +14,9 @@
 [![Website Badge](https://img.shields.io/badge/Website-3b5998?style=flat-square&logo=google-chrome&logoColor=white)](https://shuvo12729.github.io)
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-00acee?style=flat-square&logo=Twitter&logoColor=white)](https://twitter.com/shuvo12729)
 [![YouTube Badge](https://img.shields.io/badge/-YouTube-e4405f?style=flat-square&logo=Youtube&logoColor=white)](https://youtube.com/shuvo12729/)
-[![Facebook Badge](https://img.shields.io/badge/-Facebook-0088cc?style=flat-square&logo=Facebook&logoColor=white)](https://facebook.com/shuvo12729)
+[![Gitlab Badge](https://img.shields.io/badge/-Gitlab-e4405f?style=flat-square&logo=Gitlab&logoColor=white)](https://gitlab.com/shuvo12729/)
+
+
 
 
 
