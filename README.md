@@ -89,10 +89,10 @@ When I'm not Testing, you'll find me playing video gamesðŸŽ®, watching footballâ
 
 <div align="left">
   <a href="https://github.com/shuvo12729/Basic_Java.git">
-    <img alt="Java Basic Function" src="https://github-readme-stats.vercel.app/api/pin/?username=shuvo12729&repo=developer-portfolio" />
+    <img alt="Java Basic Function" src="https://github.com/shuvo12729/Basic_Java" />
   </a>
   <a href="https://github.com/shuvo12729/Medication-Adhearence.git">
-    <img alt="Medication Adherence Repo Link" src="https://github-readme-stats.vercel.app/api/pin/?username=shuvo12729&repo=proshop" />
+    <img alt="Medication Adherence Repo Link" src="https://github.com/shuvo12729/Medication-Adhearence" />
   </a>
 </div>
 
