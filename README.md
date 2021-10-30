@@ -29,7 +29,7 @@ to grow professionally in the IT field.
 When I'm not Testing, you'll find me playing video games🎮, watching football⚽, listening to music🎼, or watching movies🎬.
 </p>
 
-<img src="https://github.com/shuvo12729/shuvo/blob/main/images/developper.gif" alt="A Tester Sitting In Front Of a Computer" style="margin-top:-40px" align="right" width="475" height="350" />
+<img src="https://github.com/shuvo12729/shuvo/blob/main/images/developper.gif" alt="A Tester Sitting In Front Of a Computer" style="margin-top:-40px" align="right" width="375" height="250" />
 
 <br/>
 <br/>
@@ -41,8 +41,8 @@ When I'm not Testing, you'll find me playing video games🎮, watching football�
 - 👨🏽‍💻  I’m currently working on Web & Mobile Testing <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" alt="A Cat Going Crazy In Front Of a Laptop" width="40">
 - 📝  I’m currently learning Automation Testing.
 - 📫  How to reach me: [@shuvo12729](https://www.linkedin.com/in/shuvo12729/)
-- 👯  I like to working together.
-- ⚡  Fun fact: I think, I am in Love with Software Testing.
+- 👯  I like to work with teammates together.
+- ⚡  I Love with Software Testing.
 
 </div>
 
