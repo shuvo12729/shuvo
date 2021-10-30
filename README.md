@@ -38,7 +38,7 @@ When I'm not Testing, you'll find me playing video games🎮, watching football�
 
 <div align="left">
 
-- 👨🏽‍💻  I’m currently working on Manual & Automation Testing <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" alt="A Cat Going Crazy In Front Of a Laptop" width="40">
+- 👨🏽‍💻  I’m currently working on Web & Mobile Testing <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" alt="A Cat Going Crazy In Front Of a Laptop" width="40">
 - 📝  I’m currently learning NodeJS.
 - 📫  How to reach me: [@shuvo12729](https://www.linkedin.com/in/shuvo12729/)
 - 👯  I like to working together.
